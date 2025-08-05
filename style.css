@@ -1,0 +1,10 @@
+header{
+    color: rgb(55, 0, 255);
+    border-bottom: solid 2px white;
+    margin-left: 2px;
+}
+body{ 
+    color: rgb(42, 110, 165);
+    background-color: black;
+    padding: 20px;
+}
